@@ -26,13 +26,13 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Second Language - Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Punjabi
+        level: Native
 
 career-profile:
     title: About Me
