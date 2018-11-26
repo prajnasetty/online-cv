@@ -60,16 +60,16 @@ education:
       time: 2008 - 2012
 
 experiences:
-    - role: Software Developer / Technical Lead
+    - role: Software Developer | Technical Lead
       time: 2015 - Present
-      company: [FAST Technology, NJ (US)](https://www.fasttechnology.com/)
+      company: <a href="https://www.fasttechnology.com/">FAST Technology, NJ (US)</a>
       details: |
         Work as full stack software developer. Have been involved in and have lead development
         some key offerings including a new REST API application on top of the existing product,
         insurance agent and customer portal etc. Researched for and initiated the introduction 
         of Phabricator as a project management/code review/knowledge management tool in the company.
 
-        `C#`  `.NET core 2.x`  `React`  `JavaScript`  `SQL Server`  `REST`  `SOAP`  `IIS`  ExtJS
+        `C#` | `.NET core 2.x` | `React` | `JavaScript` | `SQL Server` | `REST` | `SOAP` | `IIS` | ExtJS
 
           - Design and Development of new features and Maintenance of existing code
           - Requirement gathering and task breakdown for team members. Code reviews to enforce quality and learn from colleagues
@@ -79,13 +79,13 @@ experiences:
 
     - role: Software Engineering Intern
       time: 2014(July - Aug)
-      company: [FAST Technology, NJ (US)](https://www.fasttechnology.com/)
+      company: <a href="https://www.fasttechnology.com/">FAST Technology, NJ (US)</a>
       details: |
         Full stack software engineering intern. Learned about enterprise code architecture with
         different patterns that enforce code qualities like separation of concern and ease of maintenance.
         Learned how to keep business logic separated from code and how that makes maintenance super easy.
 
-        `C#`  `Java`  `IIS`  `SOAP`  `ExtJS`
+        `C#` | `Java` | `IIS` | `SOAP` | `ExtJS`
 
           - Worked as part of an agile team and understood how iterating towards a solution is better than waterfall
           - Learned the concepts of SOAP webservices
@@ -100,31 +100,31 @@ experiences:
         Implemented new features for incident reporting and inspection web applications for Reacreation center.
         Also worked on implementing new features for and supporting the Big Chill event site.
 
-        `PHP`  `JavaScript`  `HTML`  `CSS`  `MySQL`  `Apache`
+        `PHP` | `JavaScript` | `HTML` | `CSS` | `MySQL` | `Apache`
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# - .NET - .NET core 2.2
+      - name: C# | .NET | .NET core 2.1
         level: 90%
 
-      - name: React - Redux - JavaScript - HTML - CSS 
+      - name: React | Redux | JavaScript | HTML | CSS 
         level: 85%
 
-      - name: VS 2017 - VS code  
+      - name: VS 2017 | VS code  
         level: 95%
 
-      - name: IIS - Apache
+      - name: IIS | Apache
         level: 65%
 
-      - name: SQL Server - MySQL
+      - name: SQL Server | MySQL
         level: 80%
 
       - name: RESTful APIs
         level: 90%
 
-      - name: SVN - git
+      - name: SVN | git
         level: 70%
 
 footer: >
