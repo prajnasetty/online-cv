@@ -27,6 +27,11 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
+      {% if project.time %}
+      <div class="time">{{ project.time }}</div>
+      {% endif %}
+      
+
     </div><!--//item-->
   {% endfor %}
 

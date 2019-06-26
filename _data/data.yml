@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yadvaindera Sood
-    tagline: <i class="fas fa-paw"></i> <Full Stack Developer />
+    tagline: <i class="fas fa-paw"></i><br/> &lt;Full Stack Developer /&gt;
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,22 +51,20 @@ education:
       time: 2008 - 2012
 
 experiences:
-    - role: Software Developer | Technical Lead
+    - role: Software Engineer | Technical Lead
       time: 2015 - Present
       company: <a href="https://www.fasttechnology.com/">FAST Technology, NJ (US)</a>
       details: |
-        Work as full stack software developer. Have been involved in and have lead development
+        Work as full stack software engineer and have been involved in and have lead development
         some key offerings including a new REST API application on top of the existing product,
-        insurance agent and customer portal etc. Researched for and initiated the introduction 
-        of Phabricator as a project management/code review/knowledge management tool in the company.
+        insurance agent and customer portal etc. Have led the delivery of two client deployments. 
+        Work with Agile teams to ensure fast paced development and deliveries.
+        Hit <a href="https://www.businesswire.com/news/home/20181114005937/en/American-Life-Launches-FAST-Platform-%E2%80%9CRecord-Time%E2%80%9D">record time</a>
+        of delivery with a client deployment. 
 
-        `C#` | `.NET core 2.x` | `React` | `JavaScript` | `SQL Server` | `REST` | `SOAP` | `IIS` | `ExtJS`
-
-          - Design and Development of new features and Maintenance of existing code
-          - Requirement gathering and task breakdown for team members. Code reviews to enforce quality and learn from colleagues
-          - Research and contribute to discussions around new technologies and bes practices around them
-          - Work as part of an agile team iterating towards a solution rather than
-          - Understand domain specific (Insurance) requirements and translate them to best possible technical solutions
+        Technologies
+        `C#` &nbsp; `.NET core 2.x` &nbsp; `React` &nbsp; `JavaScript`
+        <br/>`SQL Server` &nbsp; `REST` &nbsp; `SOAP` &nbsp; `IIS` &nbsp; `ExtJS`
 
     - role: Software Engineering Intern
       time: 2014(July - Aug)
@@ -76,7 +74,7 @@ experiences:
         different patterns that enforce code qualities like separation of concern and ease of maintenance.
         Learned how to keep business logic separated from code and how that makes maintenance super easy.
 
-        `C#` | `Java` | `IIS` | `SOAP` | `ExtJS`
+        `C#` &nbsp; `Java` &nbsp; `IIS` &nbsp; `SOAP` &nbsp; `ExtJS`
 
           - Worked as part of an agile team and understood how iterating towards a solution is better than waterfall
           - Learned the concepts of SOAP webservices
@@ -91,13 +89,37 @@ experiences:
         Implemented new features for incident reporting and inspection web applications for Reacreation center.
         Also worked on implementing new features for and supporting the Big Chill event site.
 
-        `PHP` | `JavaScript` | `HTML` | `CSS` | `MySQL` | `Apache`
+        `PHP` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `MySQL` &nbsp; `Apache`
+
+
+projects:
+    title: Projects
+    assignments:
+
+      - title: Agent and Customer Portal
+        time: "2018-19  FAST"
+        tagline: "Implemented a portal for agents and customers of Insurance Companies. The portal was built using React and secured with SAML and JWT authentication. It integrates with OKTA for security and used FAST REST APIs for data."
+
+      - title: Redux-Form-Datagrid
+        link: "github.com/ydsood/redux-form-datagrid"
+        tagline: "Created and open source React component for rendering paginated grids. In progress for making it a Redux-Form component for use in forms."
+        time: "2018-19  open source"
+
+      - title: REST API Project
+        time: "2017-18  FAST"
+        tagline: "Implemented REST API framework for the existing FAST application. Used .NET core 2.0., JWT authentication and swashbuckle to ensure secure and flexible implementation. Researched and ensured that industry standard best practices were followed. Gave presentations to the company and educated new users on architecture and guiding principles."
+
+
+      - title: Phabricator
+        tagline: "Researched and found phabricator as a unified Code Review, Knowledge Management and Project Management solution for company. Got permissions for bringing the tool in. Deployed and maintained the tool till 2016. Handed off maintenance to operations team with documentation."
+        time: "2015-16  FAST"
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# | .NET | .NET core 2.1
+      - name: C# | .NET | .NET core 2.x
         level: 90%
 
       - name: React | Redux | JavaScript | HTML | CSS 
@@ -109,14 +131,17 @@ skills:
       - name: IIS | Apache
         level: 65%
 
-      - name: SQL Server | MySQL
-        level: 80%
+      - name: SQL Server | SSMS
+        level: 70%
 
-      - name: RESTful APIs
+      - name: RESTful APIs | SOAP
         level: 90%
 
       - name: SVN | git
         level: 70%
+      
+      - name: PHP | MySQL
+        level: 50%
 
 footer: >
     <i class="fas fa-bullhorn"></i> Shoutout to <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for this layout
