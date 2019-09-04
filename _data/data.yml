@@ -51,18 +51,22 @@ education:
       time: 2007 - 2011
 
 experiences:
-    - role: Software Developer 
-      time: 2018 - Present
-      company: <a href="https://www.tpro.com/">Technical Pro, NJ (US)</a>
+
+    - role: Systems Engineer
+      time: 2011(July) - 2013 (Sep)
+      company: <a href="https://www.infosys.com/">Infosys Limited, Bangalore (IND)</a>
       details: |
-        Work as software developer involves design, implementation and maintenance of database and    
-        user interface for Inventory Management Software. Implemented a system to integrate the  
-        company product database to company online market site. 
-         
-
-        Technologies
-        `FileMaker` &nbsp; `SQL` &nbsp; `PHP` 
-
+        Started as a software developer trainee with training focus on Java, J2EE, RDBMS .   
+        Experienced in SDLC from design through development and maintenance. Developed   
+        Web applications using JAVA/J2EE and handled Database queries, procedures/functions in PL/SQL.
+        Additionally, worked on ASIC chip design projects
+        
+        `JAVA` &nbsp; `J2EE` &nbsp; `Pl/SQL` &nbsp; `JavaScript` &nbsp; `PERL` &nbsp; `SHELL scripting`
+         - Received training for design of application
+         - Worked with a team that followed agile development methodology
+         - Worked on automation scripts for parsing log files which were used for generating constraints for chip design.
+        
+        
     - role: Wireless R&D Intern
       time: 2015(June - Aug)
       company: <a href="https://www.al-enterprise.com/">Alcatel-Lucent, NJ (US)</a>
@@ -71,10 +75,9 @@ experiences:
         tool using PERL for text processing and parsing of coded commands in logfiles from several   
         vendors that could be used across testing teams and by field engineers. 
         
-        `PERL` &nbsp; `C++` &nbsp; `Wireshark`  
-
-          
-
+        `PERL` &nbsp; `C++` &nbsp; `Wireshark` 
+        
+    
     - role: Part-time Student Software Developer
       time: 2015 (Nov) - 2018 (Jan)
       company: Rutgers Reacreation Services, NJ (US)
@@ -84,42 +87,46 @@ experiences:
         Designed and implemented a Database system for student registration and attendance tracking.
 
         `PHP` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `MySQL` &nbsp; `Apache` &nbsp; `FileMaker`
-        
-        
-        
-    - role: Systems Engineer
-      time: 2011(July) - 2013 (Sep)
-      company: <a href="https://www.infosys.com/">Infosys Limited, Bangalore (IND)</a>
+
+    - role: Software Developer 
+      time: 2018 - Present
+      company: <a href="https://www.tpro.com/">Technical Pro, NJ (US)</a>
       details: |
-        Started as a software developer trainee with training focus on Java, J2EE, RDBMS .   
-        Experienced in SDLC from design through development and maintenance. Developed   
-        Web applications using JAVA/J2EE and handled Database queries, procedures/functions in PL/SQL. 
+        Work on design, implementation and maintenance of database and    
+        user interface for the Inventory Management System. Integrated 
+        the company's marketing application with the primary application
+        that hosts the company's product inventory database.
+         
+
+        Technologies
+        `FileMaker` &nbsp; `MySQL` &nbsp; `PHP`  
+
+          
+
         
-        `JAVA` &nbsp; `J2EE` &nbsp; `Pl/SQL` &nbsp; `JavaScript` 
+        
+        
+
 
 
 projects:
     title: Projects
     assignments:
 
-      - title: Agent and Customer Portal
-        time: "2018-19  FAST"
-        tagline: "Implemented a portal for agents and customers of Insurance Companies. The portal was built using React and secured with SAML and JWT authentication. It integrates with OKTA for security and used FAST REST APIs for data."
+      - title: Stock and Bank account management system
+        time: "Rutgers University, Fall 2015"
+        tagline: "Implemented a program using C++ that recorded transactions using static price data and generated reports reflecting the current account statuses and balances."
 
-      - title: Redux-Form-Datagrid
-        link: "github.com/ydsood/redux-form-datagrid"
-        tagline: "Created and open source React component for rendering paginated grids. In progress for making it a Redux-Form component for use in forms."
-        time: "2018-19  open source"
+      - title: Analysis of K-Means Algorithm
+        tagline: "Implemented and analyzed the K-Means algorithm in C++ and Python on a dataset of 1 Million movie ratings."
+        time: "Rutgers University, Spring 2016"
 
-      - title: REST API Project
-        time: "2017-18  FAST"
-        tagline: "Implemented REST API framework for the existing FAST application. Used .NET core 2.0., JWT authentication and swashbuckle to ensure secure and flexible implementation. Researched and ensured that industry standard best practices were followed. Gave presentations to the company and educated new users on architecture and guiding principles."
+      - title: Edge Cloud Migration System
+        time: "Rutgers University - WINLAB, Spring 2016"
+        tagline: "Proposed and implemented two different distributed architecture designs for edge cloud service migration that tackles the QoS (Quality of Service) issues particularly in gaming environment"
 
 
-      - title: Phabricator
-        tagline: "Researched and found phabricator as a unified Code Review, Knowledge Management and Project Management solution for company. Got permissions for bringing the tool in. Deployed and maintained the tool till 2016. Handed off maintenance to operations team with documentation."
-        time: "2015-16  FAST"
-
+      
 
 skills:
     title: Skills
