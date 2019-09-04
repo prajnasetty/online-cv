@@ -95,15 +95,14 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Redux-Form-Datagrid
+        link: "https://www.npmjs.com/package/redux-form-datagrid"
+        tagline: "Created and open source React component for rendering paginated grids. In progress for making it a Redux-Form component for use in forms."
+        time: "Open Source | 2018-19"
 
       - title: Agent and Customer Portal
         time: "FAST | 2018-19"
         tagline: "Implemented a portal for agents and customers of Insurance Companies. The portal was built using React and secured with SAML and JWT authentication. It integrates with OKTA for security and used FAST REST APIs for data."
-
-      - title: Redux-Form-Datagrid
-        link: "github.com/ydsood/redux-form-datagrid"
-        tagline: "Created and open source React component for rendering paginated grids. In progress for making it a Redux-Form component for use in forms."
-        time: "Open Source | 2018-19"
 
       - title: REST API Project
         time: "FAST | 2017-18"
