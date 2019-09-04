@@ -193,6 +193,11 @@ p {
         top: 0;
         color: $text-grey;
     }
+    .time-projects {
+        color: $text-grey;
+        display: block;
+        text-align: right;
+    }
     .company, .university {
         margin-bottom: 10px;
         color: $text-grey;
