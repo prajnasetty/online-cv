@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Prajna Setty
-    tagline: <i class="fas fa-paw"></i><br/> &lt;Full Stack Developer /&gt;
+    tagline: <i class="fas fa-paw"></i><br/> &lt;Software Developer /&gt;
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,52 +44,58 @@ career-profile:
 education:
     - degree: MS in Computer Engineering
       university: Rutgers University, New Jersey (US)
-      time: 2014 - 2017
+      time: 2014 - 2018
 
     - degree: BE in Electronics and Communications Engineering
       university: Visveswaraya Technological University, Mysore (IND)
       time: 2007 - 2011
 
 experiences:
-    - role: Software Engineer | Technical Lead
-      time: 2015 - Present
-      company: <a href="https://www.fasttechnology.com/">FAST Technology, NJ (US)</a>
+    - role: Software Developer 
+      time: 2018 - Present
+      company: <a href="https://www.tpro.com/">Technical Pro, NJ (US)</a>
       details: |
-        Work as full stack software engineer and have been involved in and have lead development
-        some key offerings including a new REST API application on top of the existing product,
-        insurance agent and customer portal etc. Have led the delivery of two client deployments. 
-        Work with Agile teams to ensure fast paced development and deliveries.
-        Hit <a href="https://www.businesswire.com/news/home/20181114005937/en/American-Life-Launches-FAST-Platform-%E2%80%9CRecord-Time%E2%80%9D">record time</a>
-        of delivery with a client deployment. 
+        Work as software developer involves design, implementation and maintenance of database and    
+        user interface for Inventory Management Software. Implemented a system to integrate the  
+        company product database to company online market site. 
+         
 
         Technologies
-        `C#` &nbsp; `.NET core 2.x` &nbsp; `React` &nbsp; `JavaScript`
-        <br/>`SQL Server` &nbsp; `REST` &nbsp; `SOAP` &nbsp; `IIS` &nbsp; `ExtJS`
+        `FileMaker` &nbsp; `SQL` &nbsp; `PHP` 
 
-    - role: Software Engineering Intern
-      time: 2014(July - Aug)
-      company: <a href="https://www.fasttechnology.com/">FAST Technology, NJ (US)</a>
+    - role: Wireless R&D Intern
+      time: 2015(June - Aug)
+      company: <a href="https://www.al-enterprise.com/">Alcatel-Lucent, NJ (US)</a>
       details: |
-        Full stack software engineering intern. Learned about enterprise code architecture with
-        different patterns that enforce code qualities like separation of concern and ease of maintenance.
-        Learned how to keep business logic separated from code and how that makes maintenance super easy.
+        Software Research & Development intern with the Wireless division. Developed an automation  
+        tool using PERL for text processing and parsing of coded commands in logfiles from several   
+        vendors that could be used across testing teams and by field engineers. 
+        
+        `PERL` &nbsp; `C++` &nbsp; `Wireshark`  
 
-        `C#` &nbsp; `Java` &nbsp; `IIS` &nbsp; `SOAP` &nbsp; `ExtJS`
-
-          - Worked as part of an agile team and understood how iterating towards a solution is better than waterfall
-          - Learned the concepts of SOAP webservices
-          - Fixed front end bugs and implemented features using ExtJS
-          - Fixed code generation related issues
-
+          
 
     - role: Part-time Student Software Developer
-      time: 2013 (Jan) - 2014 (Dec)
+      time: 2015 (Nov) - 2018 (Jan)
       company: Rutgers Reacreation Services, NJ (US)
       details: |
         Implemented new features for incident reporting and inspection web applications for Reacreation center.
         Also worked on implementing new features for and supporting the Big Chill event site.
+        Designed and implemented a Database system for student registration and attendance tracking.
 
-        `PHP` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `MySQL` &nbsp; `Apache`
+        `PHP` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `MySQL` &nbsp; `Apache` &nbsp; `FileMaker`
+        
+        
+        
+    - role: Systems Engineer
+      time: 2011(July) - 2013 (Sep)
+      company: <a href="https://www.infosys.com/">Infosys Limited, Bangalore (IND)</a>
+      details: |
+        Started as a software developer trainee with training focus on Java, J2EE, RDBMS . Experienced  
+        in SDLC from design through development and maintenance. Developed Web applications using  
+        JAVA/J2EE and handled Database queries, procedures/functions in PL/SQL. 
+        
+        `JAVA` &nbsp; `J2EE` &nbsp; `Pl/SQL` &nbsp; `JavaScript` 
 
 
 projects:
