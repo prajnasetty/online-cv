@@ -12,17 +12,17 @@ sidebar:
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ydsood@gmail.com
-    phone: (732)763-2144
-    website: github.com/ydsood #do not add http://
-    linkedin: yadvaindera-sood-a493aa47
-    github: ydsood
+    email: prajnasetty@gmail.com
+    phone: (848)219-1701
+    website: github.com/prajnasetty #do not add http://
+    linkedin: prajna-setty-b6507025
+    github: prajnasetty
     gitlab:
     bitbucket:
     twitter:
-    stack-overflow: 4764075/yadu # e.g. 123456/alandoe
+    stack-overflow: # e.g. 123456/alandoe
     codewars:
-    npm: ~ydsood
+    npm:
 
     languages:
       - idiom: English
@@ -31,7 +31,7 @@ sidebar:
       - idiom: Hindi
         level: Native
 
-      - idiom: Punjabi
+      - idiom: Kannada
         level: Native
 
 career-profile:
@@ -44,11 +44,11 @@ career-profile:
 education:
     - degree: MS in Computer Engineering
       university: Rutgers University, New Jersey (US)
-      time: 2012 - 2014
+      time: 2014 - 2017
 
-    - degree: BE in Biotechnology
-      university: Panjab University, Chandigarh (IND)
-      time: 2008 - 2012
+    - degree: BE in Electronics and Communications Engineering
+      university: Visveswaraya Technological University, Mysore (IND)
+      time: 2007 - 2011
 
 experiences:
     - role: Software Engineer | Technical Lead
@@ -119,29 +119,31 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# | .NET | .NET core 2.x
-        level: 90%
+      - name: Java | C++ | Python
+        level: 0%
+        
+      - name: PERL | TCL | Shell
+        level: 0%
 
-      - name: React | Redux | JavaScript | HTML | CSS 
-        level: 85%
+      - name: JavaScript | HTML | CSS 
+        level: 0%
 
-      - name: VS 2017 | VS code  
-        level: 95%
-
-      - name: IIS | Apache
-        level: 65%
-
-      - name: SQL Server | SSMS
-        level: 70%
-
-      - name: RESTful APIs | SOAP
-        level: 90%
-
-      - name: SVN | git
-        level: 70%
-      
+      - name: PL/SQL | Oracle
+        level: 0%
+        
       - name: PHP | MySQL
-        level: 50%
+        level: 0%
+        
+      - name: Filemaker | Wireshark
+        level: 0%
+
+      - name: git
+        level: 0%
+        
+      - name: Eclipse | VS code  | XCode | WebLogic
+        level: 0%
+        
+      
 
 footer: >
     <i class="fas fa-bullhorn"></i> Shoutout to <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for this layout
