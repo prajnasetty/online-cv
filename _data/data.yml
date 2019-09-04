@@ -116,32 +116,24 @@ projects:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Java | C++ | Python
-        level: 0%
         
       - name: PERL | TCL | Shell
-        level: 0%
 
       - name: JavaScript | HTML | CSS 
-        level: 0%
 
       - name: PL/SQL | Oracle
-        level: 0%
         
       - name: PHP | MySQL
-        level: 0%
         
       - name: Filemaker | Wireshark
-        level: 0%
 
       - name: git
-        level: 0%
         
       - name: Eclipse | VS code  | XCode | WebLogic
-        level: 0%
         
       
 
